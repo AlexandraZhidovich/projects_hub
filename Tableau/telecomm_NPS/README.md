@@ -18,7 +18,7 @@
 *В дашборде представлены итоги опроса.*
 
 ## Описание данных
-Выгрузку необходимых полей при помощи SQL-запроса см. в другом месте [].
+Выгрузку необходимых полей при помощи SQL-запроса см. [в другом месте](../../telecomm_NPS_sql_extract_save_csv/README.md).
 
 | Поле | Описание |
 |---|---|
@@ -37,5 +37,5 @@
 | nps_score | Оценка клиента в NPS‑опросе |
 | nps_group | Поле хранит информацию о том, к какой группе относится оценка клиента в опросе |
 
-Ознакомиться с интерактивными дашборами можно в моем профиле на Tableau Public 
-по ссылке [https://public.tableau.com/shared/KSGFXBHKD?:display_count=n&:origin=viz_share_link].
+Ознакомиться с интерактивным дашбордом можно в моем профиле на Tableau Public 
+[по ссылке](https://public.tableau.com/shared/KSGFXBHKD?:display_count=n&:origin=viz_share_link).
