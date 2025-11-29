@@ -38,4 +38,4 @@
 | nps_group | Поле хранит информацию о том, к какой группе относится оценка клиента в опросе |
 
 Ознакомиться с интерактивными дашборами можно в моем профиле на Tableau Public 
-по ссылке [https://public.tableau.com/views/telecomm_17586523641640/NPS_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link].
+по ссылке [https://public.tableau.com/shared/KSGFXBHKD?:display_count=n&:origin=viz_share_link].
